@@ -21,7 +21,7 @@ namespace Program_1
                 return flag;
             }
                        
-                return false;
+                return false; //returns false
             
   
         }
